@@ -1,0 +1,39 @@
+Date:2023-06-30 10:48:30
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1688096910","productDetails":"Pembelian Paket (CPNS) SKB Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580DLH3SPVTFKIHL1U","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580DLH3SPVTFKIHL1U","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-30 12:48:41
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1688104121","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Dewi lestari","email":"dewilestarisaja296@gmail.com","phoneNumber":"082345637369","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Dewi lestari","lastName":"","email":"dewilestarisaja296@gmail.com","phoneNumber":"082345637369"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580QGRJNJ5K2CB4EG2","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580QGRJNJ5K2CB4EG2","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-30 12:56:59
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1688104619","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580HAQVAI0F3U10Q5F","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580HAQVAI0F3U10Q5F","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-30 15:11:49
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1688112709","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"RISA MINI ASTITI","email":"risa.mini13@gmail.com","phoneNumber":"85268393174","itemDetails":[{"name":"Paket Spesial Epid (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"RISA MINI ASTITI","lastName":"","email":"risa.mini13@gmail.com","phoneNumber":"85268393174"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580K5YOOPSGRBVVVOE","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580K5YOOPSGRBVVVOE","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-30 15:12:38
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1688112758","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"RISA MINI ASTITI","email":"risa.mini13@gmail.com","phoneNumber":"85268393174","itemDetails":[{"name":"Paket Spesial Epid (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"RISA MINI ASTITI","lastName":"","email":"risa.mini13@gmail.com","phoneNumber":"85268393174"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580COD6VJRHN5NUKKB","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580COD6VJRHN5NUKKB","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-30 15:19:46
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1688112758","productDetail":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","resultCode":"00","paymentCode":"BR","merchantUserId":"","reference":"D11580COD6VJRHN5NUKKB","signature":"ee535685b1697cd8ae92fc562a001f48","publisherOrderId":"BR0RBOH43M6IJLE7N","settlementDate":"2023-07-01","vaNumber":"1308300848892342"}
+

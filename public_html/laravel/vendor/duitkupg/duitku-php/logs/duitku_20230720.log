@@ -1,0 +1,7 @@
+Date:2023-07-20 09:38:04
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1689820684","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Basic Adminkes","price":45000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580083087XNOVXOYUN","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580083087XNOVXOYUN","statusCode":"00","statusMessage":"SUCCESS"}
+

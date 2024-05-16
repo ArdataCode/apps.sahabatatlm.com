@@ -1,0 +1,28 @@
+Date:2023-08-15 11:29:17
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1692073756","productDetails":"Pembelian Paket Paket Super 1","additionalParam":"","merchantUserInfo":"","customerVaName":"Herman Brawijaya","email":"hermanbrawijaya1@gmail.com","phoneNumber":"85709508473","itemDetails":[{"name":"CPNS Berbayar","price":20000,"quantity":1}],"customerDetail":{"firstName":"Herman Brawijaya","lastName":"","email":"hermanbrawijaya1@gmail.com","phoneNumber":"85709508473"},"callbackUrl":"https://phpstack-1017870-3756482.cloudwaysapps.com/api/callbackduitku","returnUrl":"https://p3kkesehatan.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D12162T01HSET4KLQ7D7R","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D12162T01HSET4KLQ7D7R","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-15 11:33:37
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1692074017","productDetails":"Pembelian Paket Paket Super 1","additionalParam":"","merchantUserInfo":"","customerVaName":"Herman Brawijaya","email":"hermanbrawijaya1@gmail.com","phoneNumber":"85709508473","itemDetails":[{"name":"CPNS Berbayar","price":20000,"quantity":1}],"customerDetail":{"firstName":"Herman Brawijaya","lastName":"","email":"hermanbrawijaya1@gmail.com","phoneNumber":"85709508473"},"callbackUrl":"https://phpstack-1017870-3756482.cloudwaysapps.com/api/callbackduitku","returnUrl":"https://p3kkesehatan.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D12162RSHOFNGA15W23SP","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D12162RSHOFNGA15W23SP","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-15 11:36:17
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1692074177","productDetails":"Pembelian Paket Paket Super 1","additionalParam":"","merchantUserInfo":"","customerVaName":"Herman Brawijaya","email":"hermanbrawijaya1@gmail.com","phoneNumber":"85709508473","itemDetails":[{"name":"CPNS Berbayar","price":20000,"quantity":1}],"customerDetail":{"firstName":"Herman Brawijaya","lastName":"","email":"hermanbrawijaya1@gmail.com","phoneNumber":"85709508473"},"callbackUrl":"https://phpstack-1017870-3756482.cloudwaysapps.com/api/callbackduitku","returnUrl":"https://p3kkesehatan.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D12162IMPQT0HKVOZVVPA","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D12162IMPQT0HKVOZVVPA","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-15 11:39:34
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1692074374","productDetails":"Pembelian Paket Paket Super 1","additionalParam":"","merchantUserInfo":"","customerVaName":"Herman Brawijaya","email":"hermanbrawijaya1@gmail.com","phoneNumber":"85709508473","itemDetails":[{"name":"CPNS Berbayar","price":20000,"quantity":1}],"customerDetail":{"firstName":"Herman Brawijaya","lastName":"","email":"hermanbrawijaya1@gmail.com","phoneNumber":"85709508473"},"callbackUrl":"https://phpstack-1017870-3756482.cloudwaysapps.com/api/callbackduitku","returnUrl":"https://p3kkesehatan.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D121620YVODQYL06WKXK8","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D121620YVODQYL06WKXK8","statusCode":"00","statusMessage":"SUCCESS"}
+

@@ -1,0 +1,14 @@
+Date:2023-04-19 13:12:11
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":60000,"merchantOrderId":"1681884730","productDetails":"Paket Pertama","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Pertama","price":60000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://cbt.divyacahayaprestasi.id/api/callbackduitku","returnUrl":"http://127.0.0.1:8000/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12146","reference":"D1214623NL0XXVQAH4AHXD6","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D1214623NL0XXVQAH4AHXD6","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-04-19 19:06:43
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":60000,"merchantOrderId":"1681906002","productDetails":"Paket Pertama","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Pertama","price":60000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://cbt.divyacahayaprestasi.id/api/callbackduitku","returnUrl":"http://127.0.0.1:8000/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12146","reference":"D12146235Y5WHEDM5DUWBE0","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D12146235Y5WHEDM5DUWBE0","statusCode":"00","statusMessage":"SUCCESS"}
+

@@ -1,0 +1,7 @@
+Date:2023-09-13 22:33:22
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":149000,"merchantOrderId":"1694619202","productDetails":"Pembelian Paket EPIDEMIOLOGI","additionalParam":"","merchantUserInfo":"","customerVaName":"Herman","email":"hermanbrawijaya1@gmail.com","phoneNumber":"85709508473","itemDetails":[{"name":"KELAS BELAJAR ONLINE PPPK EPIDEMIOLOGI","price":149000,"quantity":1}],"customerDetail":{"firstName":"Herman","lastName":"","email":"hermanbrawijaya1@gmail.com","phoneNumber":"85709508473"},"callbackUrl":"https://phpstack-1017870-3756482.cloudwaysapps.com/api/callbackduitku","returnUrl":"https://p3kkesehatan.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D12162E2INOA5EAJCW4V5","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D12162E2INOA5EAJCW4V5","statusCode":"00","statusMessage":"SUCCESS"}
+

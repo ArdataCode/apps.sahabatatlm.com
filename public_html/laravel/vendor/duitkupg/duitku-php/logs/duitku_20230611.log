@@ -1,0 +1,22 @@
+Date:2023-06-11 06:43:03
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1686440583","productDetails":"Pembelian Paket PPPK Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Nurkholis Ammi Majid","email":"olismia6@gmail.com","phoneNumber":"87753486593","itemDetails":[{"name":"Paket Spesial  Adminkes(+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Nurkholis Ammi Majid","lastName":"","email":"olismia6@gmail.com","phoneNumber":"87753486593"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D1158087K4GJL7ZI066R1","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1158087K4GJL7ZI066R1","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-11 07:05:28
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1686440583","productDetail":"Pembelian Paket PPPK Administrator Kesehatan","additionalParam":"","resultCode":"00","signature":"7c0f526a871917099a839e3b5b6f3f0d","paymentCode":"DA","merchantUserId":"","reference":"D1158087K4GJL7ZI066R1","spUserHash":"","settlementDate":"2023-06-13","publisherOrderId":"DACZFGZFRXYCRS8EM"}
+
+Date:2023-06-11 10:44:17
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1686455057","productDetails":"Pembelian Paket PPPK Perawat","additionalParam":"","merchantUserInfo":"","customerVaName":"Nurhayati A Muhammad","email":"rustammuhammad2022@gmail.com","phoneNumber":"82144484821","itemDetails":[{"name":"Spesial (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Nurhayati A Muhammad","lastName":"","email":"rustammuhammad2022@gmail.com","phoneNumber":"82144484821"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580RN8FII1LHFTSNNE","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580RN8FII1LHFTSNNE","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-11 10:47:21
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1686455057","productDetail":"Pembelian Paket PPPK Perawat","additionalParam":"","resultCode":"00","paymentCode":"BR","merchantUserId":"","reference":"D11580RN8FII1LHFTSNNE","signature":"33966fbc665b9147789bffbb5eb8cc1e","publisherOrderId":"BROSG2AD06A0X43NI","settlementDate":"2023-06-12","vaNumber":"1308300181414207"}
+

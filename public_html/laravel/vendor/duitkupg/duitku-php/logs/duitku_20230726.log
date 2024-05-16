@@ -1,0 +1,56 @@
+Date:2023-07-26 12:19:18
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1690348758","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Basic Sekdin","price":45000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://cbt.kyblearningcenter.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:Unauthorized
+
+Date:2023-07-26 12:19:34
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":60000,"merchantOrderId":"1690348774","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Standar Sekdin","price":60000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://cbt.kyblearningcenter.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:Unauthorized
+
+Date:2023-07-26 12:20:16
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":60000,"merchantOrderId":"1690348816","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Standar Sekdin","price":60000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://cbt.kyblearningcenter.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:Unauthorized
+
+Date:2023-07-26 12:21:14
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":100000,"merchantOrderId":"1690348874","productDetails":"Pembelian Paket Testing SKD BUMN","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Basic BUMN","price":100000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://cbt.kyblearningcenter.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:Unauthorized
+
+Date:2023-07-26 13:03:50
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":100000,"merchantOrderId":"1690351430","productDetails":"Pembelian Paket Testing SKD BUMN","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Basic BUMN","price":100000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://cbt.kyblearningcenter.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:Unauthorized
+
+Date:2023-07-26 13:04:26
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":100000,"merchantOrderId":"1690351466","productDetails":"Pembelian Paket Testing SKD BUMN","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Basic BUMN","price":100000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://cbt.kyblearningcenter.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:Unauthorized
+
+Date:2023-07-26 13:07:48
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1690351668","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Premium Bidan","price":85000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://cbt.kyblearningcenter.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D12162I1FN6856ONMN6CB","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D12162I1FN6856ONMN6CB","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-26 13:09:46
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":100000,"merchantOrderId":"1690351786","productDetails":"Pembelian Paket Testing SKD BUMN","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Basic BUMN","price":100000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://cbt.kyblearningcenter.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D121624RZRMDJS1V68XO5","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D121624RZRMDJS1V68XO5","statusCode":"00","statusMessage":"SUCCESS"}
+

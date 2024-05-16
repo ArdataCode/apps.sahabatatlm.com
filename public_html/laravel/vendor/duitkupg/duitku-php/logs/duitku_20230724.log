@@ -1,0 +1,28 @@
+Date:2023-07-24 09:28:58
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":69000,"merchantOrderId":"1690165738","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Standar Bidan","price":69000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580QXXND07B3JX1MTB","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580QXXND07B3JX1MTB","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-24 09:30:12
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1690165812","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580YTHO00BS3WGXATD","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580YTHO00BS3WGXATD","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-24 09:37:14
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1690166233","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Basic Sekdin","price":45000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115808BPZ7C7W7RB7ZV7","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115808BPZ7C7W7RB7ZV7","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-24 10:40:37
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1690170036","productDetails":"Pembelian Paket SKD CPNS","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Paket Basic SKD","price":45000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580JJR7TUROT5CYHUT","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580JJR7TUROT5CYHUT","statusCode":"00","statusMessage":"SUCCESS"}
+

@@ -1,0 +1,53 @@
+Date:2023-06-02 04:27:03
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1685654811","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:Unauthorized
+
+Date:2023-06-02 06:27:12
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1685662031","productDetails":"Pembelian Paket SKB Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:Unauthorized
+
+Date:2023-06-02 09:36:09
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1685673368","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:Unauthorized
+
+Date:2023-06-02 10:06:11
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1685675170","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:Unauthorized
+
+Date:2023-06-02 10:07:11
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1685675231","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:Unauthorized
+
+Date:2023-06-02 10:08:30
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1685675310","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115802UPK1HEI4HIIIXR","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115802UPK1HEI4HIIIXR","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-02 10:09:38
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1685675378","productDetails":"Pembelian Paket SKB Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580ZN80GYX1YQI1KC6","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580ZN80GYX1YQI1KC6","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-02 10:10:58
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"45000","merchantOrderId":"1685675378","productDetail":"Pembelian Paket SKB Epidemiolog Kesehatan","additionalParam":"","resultCode":"00","signature":"cc4fcc6c06c573b1394760cffea09b4d","paymentCode":"M2","merchantUserId":"","reference":"D11580ZN80GYX1YQI1KC6","spUserHash":"","settlementDate":"2023-06-03","publisherOrderId":"M2R7OZYS7DLDP8GAY"}
+

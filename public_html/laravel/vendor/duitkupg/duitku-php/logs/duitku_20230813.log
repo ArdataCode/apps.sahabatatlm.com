@@ -1,0 +1,7 @@
+Date:2023-08-13 22:48:27
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1691941707","productDetails":"Pembelian Paket Paket Super 1","additionalParam":"","merchantUserInfo":"","customerVaName":"Ardhina S.D","email":"swacitaardhina@gmail.com","phoneNumber":"83104686247","itemDetails":[{"name":"CPNS Berbayar","price":20000,"quantity":1}],"customerDetail":{"firstName":"Ardhina S.D","lastName":"","email":"swacitaardhina@gmail.com","phoneNumber":"83104686247"},"callbackUrl":"https://phpstack-1017870-3756482.cloudwaysapps.com/api/callbackduitku","returnUrl":"https://cbt.p3kkesehatan.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D12162QVCQTEGKUB7I4Y6","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D12162QVCQTEGKUB7I4Y6","statusCode":"00","statusMessage":"SUCCESS"}
+

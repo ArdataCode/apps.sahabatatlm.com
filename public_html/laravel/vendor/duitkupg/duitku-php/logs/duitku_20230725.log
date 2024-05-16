@@ -1,0 +1,7 @@
+Date:2023-07-25 15:34:58
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1690274098","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"testapp","email":"registermerchant@gmail.com","phoneNumber":"081238859233","itemDetails":[{"name":"Paket Basic Sekdin","price":45000,"quantity":1}],"customerDetail":{"firstName":"testapp","lastName":"","email":"registermerchant@gmail.com","phoneNumber":"081238859233"},"callbackUrl":"https://cbt.kyblearningcenter.com/api/callbackduitku","returnUrl":"https://cbt.kyblearningcenter.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580C3FDJIP2WY1O77W","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580C3FDJIP2WY1O77W","statusCode":"00","statusMessage":"SUCCESS"}
+

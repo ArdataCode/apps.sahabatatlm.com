@@ -1,0 +1,7 @@
+Date:2023-07-13 12:29:19
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1689226159","productDetails":"Pembelian Paket testing","additionalParam":"","merchantUserInfo":"","customerVaName":"ardhina testing","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247","itemDetails":[{"name":"Testing 1","price":20000,"quantity":1}],"customerDetail":{"firstName":"ardhina testing","lastName":"","email":"ardhinaswadiv@gmail.com","phoneNumber":"083104686247"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://phpstack-1015240-3668629.cloudwaysapps.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580NVL2BCEAIEDYWAI","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580NVL2BCEAIEDYWAI","statusCode":"00","statusMessage":"SUCCESS"}
+

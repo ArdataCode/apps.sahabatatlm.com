@@ -1,0 +1,11 @@
+Date:2023-06-03 18:48:58
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1685792937","productDetails":"Pembelian Paket PPPK Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Spesial (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580IE1RV5QC3TQA8HL","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580IE1RV5QC3TQA8HL","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-03 18:50:02
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1685792937","productDetail":"Pembelian Paket PPPK Administrator Kesehatan","additionalParam":"","resultCode":"00","paymentCode":"BR","merchantUserId":"","reference":"D11580IE1RV5QC3TQA8HL","signature":"4c972ef35acf328ac3ea32d06f765c86","publisherOrderId":"BRUSUA2LZT2VI6IJY","settlementDate":"2023-06-04","vaNumber":"1308300548588827"}
+

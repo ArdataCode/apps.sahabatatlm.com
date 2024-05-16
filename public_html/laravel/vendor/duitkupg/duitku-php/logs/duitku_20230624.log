@@ -1,0 +1,18 @@
+Date:2023-06-24 07:45:57
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1687567557","productDetails":"Pembelian Paket (PPPK) Nutrisionis/Gizi","additionalParam":"","merchantUserInfo":"","customerVaName":"Monica Kristina","email":"monicakristina872@gmail.com","phoneNumber":"85348655576","itemDetails":[{"name":"Paket Spesial  Gizi (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Monica Kristina","lastName":"","email":"monicakristina872@gmail.com","phoneNumber":"85348655576"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580OV6AS0RZTPR46HQ","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580OV6AS0RZTPR46HQ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-24 08:48:59
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1687567557","productDetail":"Pembelian Paket (PPPK) Nutrisionis/Gizi","additionalParam":"","resultCode":"00","paymentCode":"BR","merchantUserId":"","reference":"D11580OV6AS0RZTPR46HQ","signature":"b5c138f3c2d9b9d3a6daf6af040b1c5b","publisherOrderId":"BRWJJ50FD3L6C8EHP","settlementDate":"2023-06-25","vaNumber":"1308300653413215"}
+
+Date:2023-06-24 09:06:05
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1687572365","productDetails":"Pembelian Paket (PPPK) Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Basic Bidan","price":55000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580CEY3DIZ20ULEPW8","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580CEY3DIZ20ULEPW8","statusCode":"00","statusMessage":"SUCCESS"}
+

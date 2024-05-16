@@ -1,0 +1,49 @@
+Date:2023-06-21 06:56:47
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1687305406","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Arfian","email":"arfianskm94@gmail.com","phoneNumber":"82259073387","itemDetails":[{"name":"Paket Spesial Epid (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Arfian","lastName":"","email":"arfianskm94@gmail.com","phoneNumber":"82259073387"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580E3BARX07IOX2QI7","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580E3BARX07IOX2QI7","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-21 06:57:24
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1687305444","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Arfian","email":"arfianskm94@gmail.com","phoneNumber":"82259073387","itemDetails":[{"name":"Paket Spesial Epid (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Arfian","lastName":"","email":"arfianskm94@gmail.com","phoneNumber":"82259073387"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580FQBNURS6UH85DA0","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580FQBNURS6UH85DA0","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-21 06:58:28
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1687305508","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Arfian","email":"arfianskm94@gmail.com","phoneNumber":"82259073387","itemDetails":[{"name":"Paket Spesial Epid (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Arfian","lastName":"","email":"arfianskm94@gmail.com","phoneNumber":"82259073387"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580T4W56RNT7DPPGPP","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580T4W56RNT7DPPGPP","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-21 06:59:58
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1687305597","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Arfian","email":"arfianskm94@gmail.com","phoneNumber":"82259073387","itemDetails":[{"name":"Paket Spesial Epid (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Arfian","lastName":"","email":"arfianskm94@gmail.com","phoneNumber":"82259073387"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580D5BJL81SKO1GZOB","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580D5BJL81SKO1GZOB","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-21 20:49:54
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1687355394","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Arfian","email":"arfianskm94@gmail.com","phoneNumber":"82259073387","itemDetails":[{"name":"Paket Spesial Epid (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Arfian","lastName":"","email":"arfianskm94@gmail.com","phoneNumber":"82259073387"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580XU7N8M676YB6FP6","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580XU7N8M676YB6FP6","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-21 21:06:47
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1687356407","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Arfian","email":"arfianskm94@gmail.com","phoneNumber":"82259073387","itemDetails":[{"name":"Paket Spesial Epid (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Arfian","lastName":"","email":"arfianskm94@gmail.com","phoneNumber":"82259073387"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115807WWLOBXL67UDYLN","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115807WWLOBXL67UDYLN","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-21 21:10:52
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1687356652","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Paket Spesial Epid (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115804KPNN6OHTX0W30F","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115804KPNN6OHTX0W30F","statusCode":"00","statusMessage":"SUCCESS"}
+

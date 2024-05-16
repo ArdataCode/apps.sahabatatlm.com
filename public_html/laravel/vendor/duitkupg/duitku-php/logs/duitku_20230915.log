@@ -1,0 +1,21 @@
+Date:2023-09-15 09:38:04
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":149000,"merchantOrderId":"1694745484","productDetails":"Pembelian Paket ANALIS KESEHATAN AHLI","additionalParam":"","merchantUserInfo":"","customerVaName":"volvoxgroups@gmail.c","email":"volvoxgroups@gmail.com","phoneNumber":"352352532235353","itemDetails":[{"name":"KELAS BELAJAR ONLINE PPPK - ANALIS KESEHATAN AHLI ","price":149000,"quantity":1}],"customerDetail":{"firstName":"volvoxgroups@gmail.com","lastName":"","email":"volvoxgroups@gmail.com","phoneNumber":"352352532235353"},"callbackUrl":"https://phpstack-1017870-3756482.cloudwaysapps.com/api/callbackduitku","returnUrl":"https://p3kkesehatan.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D12162FMS13LBPAS6WBHH","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D12162FMS13LBPAS6WBHH","amount":"149000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-09-15 09:38:18
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":149000,"merchantOrderId":"1694745498","productDetails":"Pembelian Paket ANALIS KESEHATAN AHLI","additionalParam":"","merchantUserInfo":"","customerVaName":"volvoxgroups@gmail.c","email":"volvoxgroups@gmail.com","phoneNumber":"352352532235353","itemDetails":[{"name":"KELAS BELAJAR ONLINE PPPK - ANALIS KESEHATAN AHLI ","price":149000,"quantity":1}],"customerDetail":{"firstName":"volvoxgroups@gmail.com","lastName":"","email":"volvoxgroups@gmail.com","phoneNumber":"352352532235353"},"callbackUrl":"https://phpstack-1017870-3756482.cloudwaysapps.com/api/callbackduitku","returnUrl":"https://p3kkesehatan.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D12162MY1H7LD2MESGLBU","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D12162MY1H7LD2MESGLBU","amount":"149000.00","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-09-15 09:42:38
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":149000,"merchantOrderId":"1694745758","productDetails":"Pembelian Paket BIDAN TERAMPIL","additionalParam":"","merchantUserInfo":"","customerVaName":"volvoxgroups@gmail.c","email":"volvoxgroups@gmail.com","phoneNumber":"352352532235353","itemDetails":[{"name":"KELAS BELAJAR ONLINE PPPK - BIDAN TERAMPIL (D3)","price":149000,"quantity":1}],"customerDetail":{"firstName":"volvoxgroups@gmail.com","lastName":"","email":"volvoxgroups@gmail.com","phoneNumber":"352352532235353"},"callbackUrl":"https://phpstack-1017870-3756482.cloudwaysapps.com/api/callbackduitku","returnUrl":"https://p3kkesehatan.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D12162VDWTWZQRIDOW4T1","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D12162VDWTWZQRIDOW4T1","amount":"149000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

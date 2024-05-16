@@ -1,0 +1,81 @@
+Date:2023-06-10 05:37:31
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686350251","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Winda Losa Rostiana","email":"rostianawindalosa@gmail.com","phoneNumber":"082345127123","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"Winda Losa Rostiana","lastName":"","email":"rostianawindalosa@gmail.com","phoneNumber":"082345127123"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580B76PX01WLONVS6W","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580B76PX01WLONVS6W","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-10 05:39:39
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686350379","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Winda Losa Rostiana","email":"rostianawindalosa@gmail.com","phoneNumber":"082345127123","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"Winda Losa Rostiana","lastName":"","email":"rostianawindalosa@gmail.com","phoneNumber":"082345127123"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580JQQ6I76E2XKIQ2L","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580JQQ6I76E2XKIQ2L","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-10 05:44:23
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686350663","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Winda Losa Rostiana","email":"rostianawindalosa@gmail.com","phoneNumber":"082345127123","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"Winda Losa Rostiana","lastName":"","email":"rostianawindalosa@gmail.com","phoneNumber":"082345127123"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115808SABDZW8HQH3VLW","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115808SABDZW8HQH3VLW","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-10 05:46:56
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686350816","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Winda Losa Rostiana","email":"rostianawindalosa@gmail.com","phoneNumber":"082345127123","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"Winda Losa Rostiana","lastName":"","email":"rostianawindalosa@gmail.com","phoneNumber":"082345127123"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580E0UJCM2WCEXCUFA","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580E0UJCM2WCEXCUFA","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-10 05:49:08
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686350948","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Winda Losa Rostiana","email":"rostianawindalosa@gmail.com","phoneNumber":"082345127123","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"Winda Losa Rostiana","lastName":"","email":"rostianawindalosa@gmail.com","phoneNumber":"082345127123"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580KZ4H1RUJBJ35SF5","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580KZ4H1RUJBJ35SF5","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-10 05:50:26
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686351025","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580XPC1K5HG0P7UWAA","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580XPC1K5HG0P7UWAA","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-10 05:54:22
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686351262","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580M1KNG6K1IB26ML7","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580M1KNG6K1IB26ML7","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-10 05:57:55
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686351475","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580EDDPHAU8SDUA0FS","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580EDDPHAU8SDUA0FS","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-10 05:59:24
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"45000","merchantOrderId":"1686350948","productDetail":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","resultCode":"00","signature":"5503cacd84031688521ec7097fede668","paymentCode":"I1","merchantUserId":"","reference":"D11580KZ4H1RUJBJ35SF5","spUserHash":"","settlementDate":"2023-06-11","publisherOrderId":"I11IWRXG21QCM0TDM"}
+
+Date:2023-06-10 05:59:36
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686351576","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580QHN2R87BNFPE741","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580QHN2R87BNFPE741","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-10 12:46:28
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1686375988","productDetails":"Pembelian Paket PPPK Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Ming nata","email":"mingnatasingaraja@gmail.com","phoneNumber":"81999260046","itemDetails":[{"name":"Spesial (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Ming nata","lastName":"","email":"mingnatasingaraja@gmail.com","phoneNumber":"81999260046"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580TGJ6N5IAMH8HT3U","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580TGJ6N5IAMH8HT3U","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-10 12:47:05
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1686376025","productDetails":"Pembelian Paket PPPK Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Ming nata","email":"mingnatasingaraja@gmail.com","phoneNumber":"81999260046","itemDetails":[{"name":"Spesial (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Ming nata","lastName":"","email":"mingnatasingaraja@gmail.com","phoneNumber":"81999260046"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580IOXUU1K6VFBM1G6","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580IOXUU1K6VFBM1G6","statusCode":"00","statusMessage":"SUCCESS"}
+

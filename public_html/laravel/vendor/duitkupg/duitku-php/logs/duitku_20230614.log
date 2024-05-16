@@ -1,0 +1,39 @@
+Date:2023-06-14 08:11:48
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686705108","productDetails":"Pembelian Paket PPPK Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ardiq","email":"volvoxgroups@gmail.com","phoneNumber":"878342352353","itemDetails":[{"name":"Paket Basic Adminkes","price":45000,"quantity":1}],"customerDetail":{"firstName":"ardiq","lastName":"","email":"volvoxgroups@gmail.com","phoneNumber":"878342352353"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D1158028E0I5NUF1HCWZD","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1158028E0I5NUF1HCWZD","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-14 10:21:33
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686712892","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"ardiq","email":"volvoxgroups@gmail.com","phoneNumber":"878342352353","itemDetails":[{"name":"Paket Basic Sekdin","price":45000,"quantity":1}],"customerDetail":{"firstName":"ardiq","lastName":"","email":"volvoxgroups@gmail.com","phoneNumber":"878342352353"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580157RMP1HATKGNX2","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580157RMP1HATKGNX2","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-14 10:22:49
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686712969","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"ardiq","email":"volvoxgroups@gmail.com","phoneNumber":"878342352353","itemDetails":[{"name":"Paket Basic Sekdin","price":45000,"quantity":1}],"customerDetail":{"firstName":"ardiq","lastName":"","email":"volvoxgroups@gmail.com","phoneNumber":"878342352353"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580VW2WC3V3AYTXRLZ","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580VW2WC3V3AYTXRLZ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-14 11:37:03
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686717423","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ardiq","email":"volvoxgroups@gmail.com","phoneNumber":"878342352353","itemDetails":[{"name":"Paket Basic Epid","price":45000,"quantity":1}],"customerDetail":{"firstName":"ardiq","lastName":"","email":"volvoxgroups@gmail.com","phoneNumber":"878342352353"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580NH0VFNL7NDLQP4V","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580NH0VFNL7NDLQP4V","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-14 19:05:44
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1686744344","productDetails":"Pembelian Paket PPPK Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"April","email":"aprilpoppi@gmail.com","phoneNumber":"08522221114","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"April","lastName":"","email":"aprilpoppi@gmail.com","phoneNumber":"08522221114"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580547Y1QOISVW3IPK","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580547Y1QOISVW3IPK","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-14 19:08:17
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1686744344","productDetail":"Pembelian Paket PPPK Promkes/Penyuluh Kesmas","additionalParam":"","resultCode":"00","signature":"745ce93c3a7e627733bc853dcc461fe3","paymentCode":"DA","merchantUserId":"","reference":"D11580547Y1QOISVW3IPK","spUserHash":"","settlementDate":"2023-06-16","publisherOrderId":"DACPNWILM8M5R5Z6J"}
+

@@ -1,0 +1,32 @@
+Date:2023-07-02 06:47:07
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1688255226","productDetails":"Pembelian Paket (PPPK) Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Meiyenta hiswindia","email":"mei.hiswindia@gmail.com","phoneNumber":"085287875662","itemDetails":[{"name":"Paket Spesial  Adminkes(+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Meiyenta hiswindia","lastName":"","email":"mei.hiswindia@gmail.com","phoneNumber":"085287875662"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580AXJ2OMBP1I1RHLL","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580AXJ2OMBP1I1RHLL","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-02 09:44:37
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":75000,"merchantOrderId":"1688265877","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Fitriana Irfan","email":"fitrianairvan2013@gmail.com","phoneNumber":"085299566635","itemDetails":[{"name":"Paket Premium Epid","price":75000,"quantity":1}],"customerDetail":{"firstName":"Fitriana Irfan","lastName":"","email":"fitrianairvan2013@gmail.com","phoneNumber":"085299566635"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115805CBXNXTQIFSMKI5","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115805CBXNXTQIFSMKI5","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-02 09:45:02
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":75000,"merchantOrderId":"1688265902","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Fitriana Irfan","email":"fitrianairvan2013@gmail.com","phoneNumber":"085299566635","itemDetails":[{"name":"Paket Premium Epid","price":75000,"quantity":1}],"customerDetail":{"firstName":"Fitriana Irfan","lastName":"","email":"fitrianairvan2013@gmail.com","phoneNumber":"085299566635"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580SOX73K1QGOGF006","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580SOX73K1QGOGF006","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-02 09:46:31
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":75000,"merchantOrderId":"1688265991","productDetails":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"Fitriana Irfan","email":"fitrianairvan2013@gmail.com","phoneNumber":"085299566635","itemDetails":[{"name":"Paket Premium Epid","price":75000,"quantity":1}],"customerDetail":{"firstName":"Fitriana Irfan","lastName":"","email":"fitrianairvan2013@gmail.com","phoneNumber":"085299566635"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115805SK7UH336ZKJTN2","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115805SK7UH336ZKJTN2","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-07-02 10:12:05
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"75000","merchantOrderId":"1688265991","productDetail":"Pembelian Paket (PPPK) Epidemiolog Kesehatan","additionalParam":"","resultCode":"00","signature":"5cd24345d3646a4bb4592c7da4f38961","paymentCode":"I1","merchantUserId":"","reference":"D115805SK7UH336ZKJTN2","spUserHash":"","settlementDate":"2023-07-03","publisherOrderId":"I1T528NU0CQVRZ20G"}
+

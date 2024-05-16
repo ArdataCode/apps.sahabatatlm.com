@@ -1,0 +1,14 @@
+Date:2023-05-31 05:35:31
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":55000,"merchantOrderId":"1685486120","productDetails":"Pembelian Paket SKB Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Basic","price":55000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS15710","reference":"DS1571023YI3PAYHXTCULUOW","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1571023YI3PAYHXTCULUOW","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-05-31 17:28:44
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":94000,"merchantOrderId":"1685528924","productDetails":"Pembelian Paket SKB Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"testapp","email":"registermerchant@gmail.com","phoneNumber":"081238859233","itemDetails":[{"name":"Premium","price":94000,"quantity":1}],"customerDetail":{"firstName":"testapp","lastName":"","email":"registermerchant@gmail.com","phoneNumber":"081238859233"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"DS15710","reference":"DS1571023H7OCO5ZSKJ55Z7L","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=DS1571023H7OCO5ZSKJ55Z7L","statusCode":"00","statusMessage":"SUCCESS"}
+

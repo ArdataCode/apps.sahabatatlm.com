@@ -1,0 +1,7 @@
+Date:2023-09-16 07:55:58
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":149000,"merchantOrderId":"1694825758","productDetails":"Pembelian Paket ANALIS KESEHATAN AHLI","additionalParam":"","merchantUserInfo":"","customerVaName":"Anggawa Ningrat","email":"anggawaningrat16@gmail.com","phoneNumber":"085942858410","itemDetails":[{"name":"KELAS BELAJAR ONLINE PPPK - ANALIS KESEHATAN AHLI ","price":149000,"quantity":1}],"customerDetail":{"firstName":"Anggawa Ningrat","lastName":"","email":"anggawaningrat16@gmail.com","phoneNumber":"085942858410"},"callbackUrl":"https://phpstack-1017870-3756482.cloudwaysapps.com/api/callbackduitku","returnUrl":"https://p3kkesehatan.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12162","reference":"D12162MRA57Z61QUN47X3","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D12162MRA57Z61QUN47X3","amount":"149000.00","statusCode":"00","statusMessage":"SUCCESS"}
+

@@ -1,0 +1,114 @@
+Date:2023-06-06 11:14:06
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1686024846","productDetails":"Pembelian Paket PPPK Epidemiolog Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Spesial (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580RHTHVO2IDNH275M","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580RHTHVO2IDNH275M","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 11:18:12
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686025092","productDetails":"Pembelian Paket SKD CPNS","additionalParam":"","merchantUserInfo":"","customerVaName":"Khairul Hafizhan","email":"khairulhafizhan25@gmail.com","phoneNumber":"85263267278","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"Khairul Hafizhan","lastName":"","email":"khairulhafizhan25@gmail.com","phoneNumber":"85263267278"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580TQGYX0KWP6B3GEO","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580TQGYX0KWP6B3GEO","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 11:34:35
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":60000,"merchantOrderId":"1686026075","productDetails":"Pembelian Paket Kompetensi Dasar (SKD)","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Standar","price":60000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580JPP4TUW84WBDJYM","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580JPP4TUW84WBDJYM","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 11:40:04
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":45000,"merchantOrderId":"1686026404","productDetails":"Pembelian Paket SKD CPNS","additionalParam":"","merchantUserInfo":"","customerVaName":"ami ami","email":"alodokter73@gmail.com","phoneNumber":"082387388673","itemDetails":[{"name":"Basic","price":45000,"quantity":1}],"customerDetail":{"firstName":"ami ami","lastName":"","email":"alodokter73@gmail.com","phoneNumber":"082387388673"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580T5EMRNDB5ZYFNVD","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580T5EMRNDB5ZYFNVD","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 12:22:01
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1686028921","productDetails":"Pembelian Paket PPPK Administrator Kesehatan","additionalParam":"","merchantUserInfo":"","customerVaName":"KADEK SUARDIKA","email":"dikanurse@gmail.com","phoneNumber":"085339072393","itemDetails":[{"name":"Spesial (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"KADEK SUARDIKA","lastName":"","email":"dikanurse@gmail.com","phoneNumber":"085339072393"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580VYI1XJNFCIIRAYL","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580VYI1XJNFCIIRAYL","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 12:25:05
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"95000","merchantOrderId":"1686028921","productDetail":"Pembelian Paket PPPK Administrator Kesehatan","additionalParam":"","resultCode":"00","paymentCode":"BR","merchantUserId":"","reference":"D11580VYI1XJNFCIIRAYL","signature":"d0ab0622507a99599af8e9520d25fc5a","publisherOrderId":"BRE8M8CFI6U1AFIXI","settlementDate":"2023-06-07","vaNumber":"1308300211662425"}
+
+Date:2023-06-06 13:53:31
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":99000,"merchantOrderId":"1686034411","productDetails":"Pembelian Paket PPPK Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Kadek sutiani","email":"kadeksutiany0652@gmail.com","phoneNumber":"82293574761","itemDetails":[{"name":"Spesial (+Ebook Soal)","price":99000,"quantity":1}],"customerDetail":{"firstName":"Kadek sutiani","lastName":"","email":"kadeksutiany0652@gmail.com","phoneNumber":"82293574761"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580IFZKUH0WXNG5XGB","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580IFZKUH0WXNG5XGB","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 16:38:48
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1686044328","productDetails":"Pembelian Paket PPPK Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Yunita Bumbungan","email":"yunitab88@gmail.com","phoneNumber":"082252637729","itemDetails":[{"name":"Premium","price":85000,"quantity":1}],"customerDetail":{"firstName":"Yunita Bumbungan","lastName":"","email":"yunitab88@gmail.com","phoneNumber":"082252637729"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580V1VDKJBOJ82FUM8","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580V1VDKJBOJ82FUM8","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 16:49:27
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1686044967","productDetails":"Pembelian Paket PPPK Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Yunita Bumbungan","email":"yunitab88@gmail.com","phoneNumber":"082252637729","itemDetails":[{"name":"Premium","price":85000,"quantity":1}],"customerDetail":{"firstName":"Yunita Bumbungan","lastName":"","email":"yunitab88@gmail.com","phoneNumber":"082252637729"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D1158037IPC4WD1NZT8X0","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D1158037IPC4WD1NZT8X0","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 16:57:08
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1686045428","productDetails":"Pembelian Paket PPPK Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Yunita Bumbungan","email":"yunitab88@gmail.com","phoneNumber":"082252637729","itemDetails":[{"name":"Premium","price":85000,"quantity":1}],"customerDetail":{"firstName":"Yunita Bumbungan","lastName":"","email":"yunitab88@gmail.com","phoneNumber":"082252637729"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580200CZBXHOWQ6SB0","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580200CZBXHOWQ6SB0","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 17:34:14
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":99000,"merchantOrderId":"1686047654","productDetails":"Pembelian Paket PPPK Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Nikma jufran","email":"nikmajufran8@gmail.com","phoneNumber":"82190068173","itemDetails":[{"name":"Spesial (+Ebook Soal)","price":99000,"quantity":1}],"customerDetail":{"firstName":"Nikma jufran","lastName":"","email":"nikmajufran8@gmail.com","phoneNumber":"82190068173"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580D1KIA1GG50QJCTP","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580D1KIA1GG50QJCTP","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 17:35:13
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":99000,"merchantOrderId":"1686047712","productDetails":"Pembelian Paket PPPK Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Nikma jufran","email":"nikmajufran8@gmail.com","phoneNumber":"82190068173","itemDetails":[{"name":"Spesial (+Ebook Soal)","price":99000,"quantity":1}],"customerDetail":{"firstName":"Nikma jufran","lastName":"","email":"nikmajufran8@gmail.com","phoneNumber":"82190068173"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580IALX6OTRT43A13K","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580IALX6OTRT43A13K","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 17:38:48
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"99000","merchantOrderId":"1686047712","productDetail":"Pembelian Paket PPPK Bidan","additionalParam":"","resultCode":"00","paymentCode":"BR","merchantUserId":"","reference":"D11580IALX6OTRT43A13K","signature":"dc45cb0edcf2dddd334b0df21c616fab","publisherOrderId":"BRLD8L3NOJRIK1CRP","settlementDate":"2023-06-07","vaNumber":"1308300226293265"}
+
+Date:2023-06-06 18:40:57
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1686051657","productDetails":"Pembelian Paket PPPK Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Yunita Bumbungan","email":"yunitab88@gmail.com","phoneNumber":"082252637729","itemDetails":[{"name":"Premium","price":85000,"quantity":1}],"customerDetail":{"firstName":"Yunita Bumbungan","lastName":"","email":"yunitab88@gmail.com","phoneNumber":"082252637729"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D115805NE68GOQILIPJXH","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D115805NE68GOQILIPJXH","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 18:52:45
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":85000,"merchantOrderId":"1686052365","productDetails":"Pembelian Paket PPPK Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Yunita Bumbungan","email":"yunitab88@gmail.com","phoneNumber":"082252637729","itemDetails":[{"name":"Premium","price":85000,"quantity":1}],"customerDetail":{"firstName":"Yunita Bumbungan","lastName":"","email":"yunitab88@gmail.com","phoneNumber":"082252637729"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580YU8N21O4YQC6SKO","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580YU8N21O4YQC6SKO","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 18:53:32
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"85000","merchantOrderId":"1686052365","productDetail":"Pembelian Paket PPPK Bidan","additionalParam":"","resultCode":"00","paymentCode":"BR","merchantUserId":"","reference":"D11580YU8N21O4YQC6SKO","signature":"72e5b5cc32676075e0caf4c6f395d4ce","publisherOrderId":"BRVC7ILUOODCIHK6G","settlementDate":"2023-06-07","vaNumber":"1308300243383485"}
+
+Date:2023-06-06 19:54:41
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":98000,"merchantOrderId":"1686056081","productDetails":"Pembelian Paket PPPK Bidan","additionalParam":"","merchantUserInfo":"","customerVaName":"Kadek sutiani","email":"kadeksutiany0652@gmail.com","phoneNumber":"82293574761","itemDetails":[{"name":"Spesial (+Ebook Soal)","price":98000,"quantity":1}],"customerDetail":{"firstName":"Kadek sutiani","lastName":"","email":"kadeksutiany0652@gmail.com","phoneNumber":"82293574761"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580P2AY4CIFZ3C1ZTZ","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580P2AY4CIFZ3C1ZTZ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-06-06 19:56:23
+URL:/index.php
+CALLBACK REQUEST:{"merchantCode":"D11580","amount":"98000","merchantOrderId":"1686056081","productDetail":"Pembelian Paket PPPK Bidan","additionalParam":"","resultCode":"00","paymentCode":"BR","merchantUserId":"","reference":"D11580P2AY4CIFZ3C1ZTZ","signature":"7bbb714dcb2c0efe2379a7c46d71057b","publisherOrderId":"BRHNFLMDDXZJESIK6","settlementDate":"2023-06-07","vaNumber":"1308300068344780"}
+

@@ -1,0 +1,7 @@
+Date:2023-05-13 11:23:08
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":30000,"merchantOrderId":"1683951788","productDetails":"Pembelian Paket Kedua","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Paket Lengkap","price":30000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://cbt.divyacahayaprestasi.id/api/callbackduitku","returnUrl":"http://127.0.0.1:8000/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12146","reference":"D12146236K4T818644R36EE","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D12146236K4T818644R36EE","statusCode":"00","statusMessage":"SUCCESS"}
+

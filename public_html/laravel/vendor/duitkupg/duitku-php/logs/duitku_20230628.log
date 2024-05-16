@@ -1,0 +1,7 @@
+Date:2023-06-28 15:13:05
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-prod.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":95000,"merchantOrderId":"1687939985","productDetails":"Pembelian Paket (PPPK) Promkes/Penyuluh Kesmas","additionalParam":"","merchantUserInfo":"","customerVaName":"Dewi lestari","email":"dewilestarisaja296@gmail.com","phoneNumber":"082345637369","itemDetails":[{"name":"Paket Spesial Promkes (+Ebook Soal)","price":95000,"quantity":1}],"customerDetail":{"firstName":"Dewi lestari","lastName":"","email":"dewilestarisaja296@gmail.com","phoneNumber":"082345637369"},"callbackUrl":"https://apps.tryoutasn.com/api/callbackduitku","returnUrl":"https://apps.tryoutasn.com/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D11580","reference":"D11580A4Q8T5ZFLV2PXCC","paymentUrl":"https://app-prod.duitku.com/redirect_checkout?reference=D11580A4Q8T5ZFLV2PXCC","statusCode":"00","statusMessage":"SUCCESS"}
+

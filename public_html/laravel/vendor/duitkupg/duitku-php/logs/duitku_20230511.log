@@ -1,0 +1,42 @@
+Date:2023-05-11 11:33:32
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1683779611","productDetails":"Pembelian Paket Free","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Pertama","price":20000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://cbt.divyacahayaprestasi.id/api/callbackduitku","returnUrl":"http://127.0.0.1:8000/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12146","reference":"D1214623F3D4LXMC6BJP80K","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D1214623F3D4LXMC6BJP80K","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-05-11 13:29:22
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1683786562","productDetails":"Pembelian Paket Free","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Pertama","price":20000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://cbt.divyacahayaprestasi.id/api/callbackduitku","returnUrl":"http://127.0.0.1:8000/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12146","reference":"D1214623K7TYY1VAIUWD4U4","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D1214623K7TYY1VAIUWD4U4","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-05-11 13:29:47
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1683786587","productDetails":"Pembelian Paket Free","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Pertama","price":20000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://cbt.divyacahayaprestasi.id/api/callbackduitku","returnUrl":"http://127.0.0.1:8000/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12146","reference":"D1214623Y7SY41QOHFDM1XX","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D1214623Y7SY41QOHFDM1XX","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-05-11 13:38:46
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1683787126","productDetails":"Pembelian Paket Free","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Pertama","price":20000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://cbt.divyacahayaprestasi.id/api/callbackduitku","returnUrl":"http://127.0.0.1:8000/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12146","reference":"D1214623CVG0GYXXJUBDTHZ","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D1214623CVG0GYXXJUBDTHZ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-05-11 13:39:57
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1683787197","productDetails":"Pembelian Paket Free","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Pertama","price":20000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://cbt.divyacahayaprestasi.id/api/callbackduitku","returnUrl":"http://127.0.0.1:8000/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12146","reference":"D1214623O1X65UXT2OYG2X1","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D1214623O1X65UXT2OYG2X1","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-05-11 19:36:42
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":20000,"merchantOrderId":"1683808601","productDetails":"Pembelian Paket Free","additionalParam":"","merchantUserInfo":"","customerVaName":"User","email":"","phoneNumber":"","itemDetails":[{"name":"Pertama","price":20000,"quantity":1}],"customerDetail":{"firstName":"User","lastName":"","email":"","phoneNumber":""},"callbackUrl":"https://cbt.divyacahayaprestasi.id/api/callbackduitku","returnUrl":"http://127.0.0.1:8000/transaksi","expiryPeriod":180}
+RESPONSE:{"merchantCode":"D12146","reference":"D1214623OX730KBCSHJAJ2G","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D1214623OX730KBCSHJAJ2G","statusCode":"00","statusMessage":"SUCCESS"}
+
